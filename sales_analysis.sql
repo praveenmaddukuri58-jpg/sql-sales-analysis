@@ -1,7 +1,7 @@
 -- ============================================
 -- SALES TREND ANALYSIS
 -- Analysis Queries
--- Author: [Your Name]
+-- Author: venkata praveen maddukuri
 -- ============================================
 
 
