@@ -1,7 +1,7 @@
 -- ============================================
 -- SALES TREND ANALYSIS
 -- Sample Database Setup
--- Author: [Your Name]
+-- Author: venkata praveen maddukuri
 -- ============================================
 
 -- Create tables
